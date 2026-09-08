@@ -1,0 +1,70 @@
+Token
+----------
+the smallest unit of the program is called token
+this token contain some
+1.identifier: 
+-------------
+identifier is a name that cab be define a variables, functions, etc...
+rules:
+1. it contain uppercase, lowercase, digits, _
+2. it doesn't contain any special character
+3. identifier starts with uppercase, lowercase, _
+4. keywords are not allowed(like if , else, with, end, for,....)
+
+2.variable:
+-----------
+variable is a container that can be store any value.
+(same rules as identifier)
+3.literals
+4.operators
+5.keywords:
+-----------
+ python contain 35 keywords . 
+they are:
+'False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield'
+
+Statement
+------------
+the line of the code is called statement
+
+comments
+-----------
+comments are used to understand the program. it is can't be executed.
+they are two types"
+#single line comment
+''' multiline commend '''
+
+ex:
+-----
+n =10
+if n%2 == 0:
+   print("even number")
+else:
+   print("odd number")
+
+keywords explanation:
+
+False-Boolean value
+none-used to define empty block of code
+true-Boolean value
+and-operator checks only when two values are true
+as-alias name
+assert-error detection
+async, await-asynchronous operations at the time of data fetching in fast API
+break-to terminate a loop
+class-in object oriented programming to define a blueprint of a object we use class
+continue-skip the current iteration(jumping)
+def- to define a function
+del-to delete a value
+elif, else, if-conditional statement
+while, for-looping statement
+except, try, finally-exception handling to handle errors
+from-import statements
+global, nonlocal-function scope
+import-modules
+lambda-anonymous functions
+not-logical operator
+pass-there is nothing to write inside a function
+raise-raise an error explicitly
+with-file handling
+yield-generator concept
