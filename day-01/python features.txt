@@ -1,0 +1,21 @@
+python features 
+
+1.free and open source
+2.easy to understand
+3.less code
+4.large standard library
+5.dynamically typed
+6.high level language 
+7.procedural language
+8.object oriented programming language
+   object oriented programming language contain some concepts like
+   class: blue print creating objects
+   object: instead of class
+   encapsulation: wrapping the data or hiding the data
+   abstraction: hiding the important data and providing some access to using the  portals
+   polymorphism: one interface provide multiple features
+   inheritance : create a new class using existing class
+9. platform independent
+10.it provide highly secure
+11. automatic garbage collect
+12.gui support
