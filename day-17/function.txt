@@ -1,0 +1,15 @@
+Function:
+-------------
+function in a python is a reusable  block of code that can be perform a specific task.
+
+why we need:  
+1.Code reusability – Write code once and use it multiple times.
+2.Avoid repetition – Prevent writing the same code again and again.
+3.Improve readability – Makes the program easier to understand.
+4.Easy debugging – Errors can be easily located inside a function.
+5.Easy maintenance – Changes can be made in one place.
+6.Modularity – Divides a large program into smaller parts.
+7.Save time – Reduces the amount of code you need to write.
+8.Better organization – Keeps related tasks together.
+9.Easy testing – Each function can be tested separately.
+10.Teamwork – Different programmers can work on different functions independently
