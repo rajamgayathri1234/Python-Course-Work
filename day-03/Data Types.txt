@@ -1,0 +1,40 @@
+Data Types
+-------------
+#numeric data types
+1.integer: it is a numeric value
+2.float: it is a decimal value
+3.complex: it contain the imaginary values
+
+#sequence data types:
+4.string: string is a collection of characters which is enclosed with single or double quotes.
+properties:
+  1.it is a immutable.it can't be change.
+5.list:list is a collection of elements enclosed with square braces.
+properties:
+  1.it is a mutable.it cab be changed.
+  2.it can contain duplicates.
+  3.dynamically sized.
+  4.list is a heterogeneous. (it contain any data)
+  5.ordered collection.
+6.tuple: tuple is a collection elements enclosed with paratheses.
+properties:
+ 1.immuatable.
+ 2.it can contain duplicate.
+ 3.order collection.
+
+#mapping data types:
+7.set : set is a collection of elements enclosed with curly braces.
+properties:
+ 1.it doesn't contain duplicates.
+ 2.it is a mutable.
+ 3.dynamically sized.
+ 4.heterogenious.
+ 5.it is a unordered. 
+8.dictionary: it is a collection of key value pairs enclosed with curly braces.
+properties:
+ 1. it is mutable.
+ 2.it follows order.
+ 3.dynamically sized.
+ 4.hetrogenious.
+9.frozen set: it is a collection of elements.
+ 1.it is immutable.
