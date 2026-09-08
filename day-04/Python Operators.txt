@@ -1,0 +1,50 @@
+Python Operators:
+-------------------
+1. Arithmetic Operators
+
+Arithmetic operators are used to perform mathematical calculations on numeric values. They help in carrying out basic mathematical operations such as addition, subtraction, multiplication, division, finding the remainder, floor division, and calculating powers.
+
+Operators: +, -, *, /, //, %, **
+
+Note:
+
+/ (Division) returns a float (decimal) value.
+// (Floor Division) returns the integer quotient by removing the decimal part.
+2. Comparison Operators
+
+Comparison operators are used to compare two values or expressions. They return a Boolean value, either True or False, depending on whether the comparison is correct. These operators are commonly used in decision-making and conditional statements.
+
+Operators: >, <, >=, <=, ==, !=
+
+3. Assignment Operators
+
+Assignment operators are used to assign values to variables. They can also update the value of a variable by performing an operation and assigning the result back to the same variable. These operators make the code shorter and easier to write.
+
+Operators: =, +=, -=, *=, /=, //=, %=
+
+4. Logical Operators
+
+Logical operators are used to combine two or more conditions or to reverse the result of a condition. They always return a Boolean value (True or False) and are mainly used in conditional statements and loops.
+
+Operators: and, or, not
+
+5. Membership Operators
+
+Membership operators are used to check whether a value is present in a sequence such as a string, list, tuple, set, or dictionary. The result is either True or False based on the presence of the value.
+
+Operators: in, not in
+
+Note: In a dictionary, membership operators check only the keys, not the values.
+
+6. Identity Operators
+
+Identity operators are used to determine whether two variables refer to the same object in memory. They compare the identity of objects rather than their values.
+
+Operators: is, is not
+
+7. Bitwise Operators
+
+Bitwise operators are used to perform operations on the binary representation of integers. They work by manipulating individual bits and are mainly used in low-level programming, networking, encryption, and hardware-related applications.
+
+Operators: &, |, ^, ~, <<, >>
+
