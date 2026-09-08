@@ -1,0 +1,102 @@
+A string is a collection of characters written inside single (' ') or double (" ") quotes.
+
+name = "Gayathri"
+1. len() : Returns the number of characters.
+ex:
+name = "Python"
+print(len(name) # 6
+
+2. upper() : Converts the string into uppercase.
+ex:
+s = "python"
+print(s.upper())  # PYTHON
+
+3. lower() : Converts the string into lowercase.
+ex:
+s = "PYTHON"
+print(s.lower())  # python
+
+4. capitalize() : Converts the first character to uppercase.
+ex:
+s = "python programming"
+print(s.capitalize())   #Python programming
+
+5. title() : Converts the first letter of every word to uppercase.
+ex:
+s = "python programming"
+print(s.title())  #Python Programming
+
+6. strip() : Removes spaces from the beginning and end.
+ex:
+s = "  Python  "
+print(s.strip())  #Python
+
+7. replace() : Replaces one string with another.
+ex:
+s = "I like Java"
+print(s.replace("Java", "Python"))  # I like Python
+
+8. find() : Returns the index position of a substring.
+ex:
+s = "Python"
+print(s.find("t")) # 2
+
+9. count() : Counts how many times a character or substring occurs.
+ex:
+s = "banana"
+print(s.count("a"))  #3
+
+10. startswith() : Checks whether the string starts with a particular value.
+ex:
+s = "Python"
+print(s.startswith("Py"))   #True
+
+11. endswith() : Checks whether the string ends with a particular value.
+ex:
+s = "Python"
+print(s.endswith("on"))  #True
+
+12. isalpha() : Checks whether all characters are alphabets.
+ex:
+s = "Python"
+print(s.isalpha())  #True
+
+13. isdigit() : Checks whether all characters are digits.
+ex:
+s = "12345"
+print(s.isdigit()) #True
+
+14. isalnum() : Checks whether the string contains only alphabets and numbers.
+ex: 
+s = "Python123"
+print(s.isalnum()) #ex:True
+
+15. isspace() : Checks whether the string contains only spaces.
+ex:
+s = "   "
+print(s.isspace())  #True
+
+16. split() : Splits a string into a list.
+ex:
+s = "Python is easy"
+print(s.split())  #['Python', 'is', 'easy']
+
+17. join() : Joins elements of a list into a string.
+ex:
+words = ["Python", "is", "easy"]
+print(" ".join(words))  #Python is easy
+
+18. index() : Returns the index of a substring.
+ex:
+s = "Python"
+print(s.index("t")) # 2
+
+19. swapcase() :Changes uppercase to lowercase and lowercase to uppercase.
+ex:
+s = "PyThOn"
+print(s.swapcase())  #pYtHoN
+
+20. center() :Places the string in the center of a specified width.
+ex:
+s = "Python"
+print(s.center(10, "*"))  #**Python**
