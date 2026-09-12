@@ -1,0 +1,14 @@
+OOP in Python
+-----------------
+it is Stands for object oriented programming.
+oops is uesd for security, reduce the duplicate codes, wrap the data into single units
+it contains :
+1.class : class is a blueprint. which contain the attributes , methods.
+2.object : object is instance of class.
+3.Encapsulation : Wrapping data and methods into a single class. Helps protect and control access to data.
+4.Inheritance : One class can acquire properties and methods from another class. Helps in code reusability.
+5.Polymorphism : The same method or operation can behave differently depending on the object.
+6.Abstraction : Hides unnecessary implementation details and shows only important features.
+attributes :  they are 2 types
+ 1 class attribute :it is defined inside the class
+ 2 instant attribute : it is defined  outside the class
